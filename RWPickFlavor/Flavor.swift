@@ -14,4 +14,8 @@ public class Flavor: NSObject {
     return "Hello \(value)"
   }
   
+  public func testing() -> String {
+    return "Trieu Phan testing"
+  }
+  
 }
